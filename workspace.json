@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "projects": {
+    "station-log-api": "apps/station-log-api"
+  }
+}
